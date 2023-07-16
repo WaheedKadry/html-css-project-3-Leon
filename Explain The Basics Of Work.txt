@@ -1,0 +1,3 @@
+normalize css render all elements normaly
+work sans from google fonts
+font awesome icons
